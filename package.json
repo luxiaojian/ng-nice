@@ -25,8 +25,8 @@
     "morgan": "~1.0.1",
     "node-uuid": "~1.4.1",
     "nodemailer": "~0.6.3",
-    "passport": "~0.2.0",
-    "passport-github": "~0.1.5",
+    "passport": "~0.6.0",
+    "passport-github": "~1.0.0",
     "passport-weibo": "~0.1.0",
     "winston": "^1.0.1"
   },
